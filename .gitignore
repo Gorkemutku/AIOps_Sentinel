@@ -1,0 +1,15 @@
+# Sanal ortam (Yüklenmesine gerek yok, herkes kendi kurar)
+venv/
+.venv/
+
+# Gizli bilgiler (Şifreleri koyduğum dosya)
+.env
+
+# Geçici dosyalar ve loglar
+aiops_events.log
+__pycache__/
+*.pyc
+
+# Docker iç verileri 
+.docker/
+#kişisel bilgilerimi yüklemeye gerek yok.Deneme amaçlı koyulmuştur.
